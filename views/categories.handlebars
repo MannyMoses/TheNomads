@@ -1,7 +1,17 @@
 {{> header}}
 
 <div class="parallax-container">
-    <div class="parallax"><img src="/images/nomad1.jpeg" /></div>
+    <div class="parallax"><img class="image" src="/images/nomad1.jpeg" /></div>
+    <style>
+        .parallax-container {
+            height: 50vh !important;
+            overflow: hidden !important;
+        }
+        .image {
+            width: 100% !important;
+            background-position: center !important;
+        }
+    </style>
 </div>
 
 <div class="container">
@@ -13,6 +23,7 @@
         .overflow-categories {
             overflow: visible;
             margin-top: -30vh;
+            color: teal;
         }
     </style>
     <div class="row top-30">
