@@ -3,13 +3,14 @@
 <hr></hr>
 
 <h2>Collaborators</h2> 
-* [Jonathan Bentley](https://github.com/letsgitthis)
-* [Manny Moses](https://github.com/MannyMoses)
-* [Mark McDonald](https://github.com/markmcdnyu)
+
+- [Jonathan Bentley](https://github.com/letsgitthis)
+
+- [Manny Moses](https://github.com/MannyMoses)
+
+- [Mark McDonald](https://github.com/markmcdnyu)
 
 <hr></hr>
-
-<h1>Insert screenshot here</h1>
 
 <h2>About TradeUP</h2>
 
@@ -26,6 +27,12 @@ But what if there was a platform where trading things for other items was easily
 * TradeUP is an app that allows Users to trade items of all categories and calibers, with a twist: Its bartering only
 
 * Our application will offer Users the ability to peruse inventory posted by others, actively persue trades with other "Seekers", and upon finding something they like, the ability to acquire each one anothers contact info for logistics purposes.
+
+<hr></hr>
+
+<h1>Deployed Application</h1>
+
+View the application in [Heroku](https://warm-reef-18560.herokuapp.com/product)
 
 <hr></hr>
 
@@ -66,10 +73,13 @@ But what if there was a platform where trading things for other items was easily
 
 <h2>Features</h2>
 
-* [Step 1]()
-* [Step 2]()
-* [Step 3]()
-* [Step 4]()
+* [Step 1](public\images\welcome.jpeg)
+
+* [Step 2](public\images\post.jpeg)
+
+* [Step 3](public\images\category.jpeg)
+
+
 
 
 
