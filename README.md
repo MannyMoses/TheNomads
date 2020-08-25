@@ -73,11 +73,11 @@ View the application in [Heroku](https://warm-reef-18560.herokuapp.com/product)
 
 <h2>Features</h2>
 
-* [Step 1](public\images\welcome.jpeg)
+<img width="1000" alt="welcome" src="public\images\welcome.jpeg">
 
-* [Step 2](public\images\post.jpeg)
+<img width="1000" alt="welcome" src="public\images\post.jpeg">
 
-* [Step 3](public\images\category.jpeg)
+<img width="1000" alt="welcome" src="public\images\category.jpeg">
 
 
 
